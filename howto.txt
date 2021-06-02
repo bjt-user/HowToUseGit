@@ -3,3 +3,14 @@ open terminal
 change to the directory you want to push
 type: "git init" to initialize the folder
 type: "git add ." to add all files inside the folder
+type: "git status" to see changes that can be commited
+type: "git commit -m "comment"
+
+now you have to configure your email and username with
+
+now copy the link of your repo
+and type: "git remote add origin https://github.com/bjt-user/HowToUseGit.git"
+
+git push -u origin master
+
+=> this worked, now how can I update the folder?
