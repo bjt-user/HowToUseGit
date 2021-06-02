@@ -18,3 +18,4 @@ git push -u origin master
 by typing "git add .", then optionally "git status", "git commit -m "comment"", and then "git push -u origin master"
 
 now leave out the "origin master" on the push
+=> and that also works, so you just need "git push -u"
