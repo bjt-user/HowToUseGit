@@ -1,0 +1,5 @@
+create Repo on Github.com
+open terminal
+change to the directory you want to push
+type: "git init" to initialize the folder
+type: "git add ." to add all files inside the folder
