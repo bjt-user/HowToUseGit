@@ -19,3 +19,5 @@ by typing "git add .", then optionally "git status", "git commit -m "comment"", 
 
 now leave out the "origin master" on the push
 => and that also works, so you just need "git push -u"
+
+-test to see if this repo still works when I move to a different folder on my pc-
