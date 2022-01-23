@@ -21,3 +21,9 @@ now leave out the "origin master" on the push
 => and that also works, so you just need "git push -u"
 
 -test to see if this repo still works when I move to a different folder on my pc-
+
+#################################
+#Passwords don't work anymore...#
+#################################
+remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
